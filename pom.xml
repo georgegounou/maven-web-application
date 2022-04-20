@@ -103,7 +103,9 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.174.42.5:7000/repository/Fintech-clients-snapshot/</url>
+	      <url>http://54.174.42.5:7000/repository/Fintech-clients-snapshot/
+		    
+		    </url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
