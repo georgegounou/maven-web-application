@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.3-RELEASE</version>
+	<version>0.0.1-RELEASE</version>
 	
 	<name>maven-web-application</name>
 
@@ -97,15 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.174.42.5:7000/repository/Fintech-clients-release/</url>
+	      <url>http://172.31.93.235:7000/repository/Fintech_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.174.42.5:7000/repository/Fintech-clients-snapshot/
-		    
-		    </url>
+	      <url>http://172.31.93.235:7000/repository/Fintech_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
